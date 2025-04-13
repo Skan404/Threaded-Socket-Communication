@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\Mytov\OneDrive\Pulpit\sem 4\Przetwarzanie rozporoszone\Lab5\Client\Client\Client\Client.cpp(62,86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mytov\OneDrive\Pulpit\sem 4\Przetwarzanie rozporoszone\Lab5\Client\Client\Client\Client.cpp(53,10): warning C4101: 'buf': unreferenced local variable
+  Client.vcxproj -> C:\Users\Mytov\OneDrive\Pulpit\sem 4\Przetwarzanie rozporoszone\Lab5\Client\Client\x64\Debug\Client.exe
